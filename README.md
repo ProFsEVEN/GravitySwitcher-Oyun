@@ -8,7 +8,7 @@ Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyi
 
 1.  Bu depoyu klonlayın:
     ```bash
-    git clone <depo-adresi>
+    git clone https://github.com/ProFsEVEN/GravitySwitcher-Oyun.git
     ```
 2.  Proje dizinine gidin:
     ```bash
